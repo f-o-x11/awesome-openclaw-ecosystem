@@ -61,6 +61,7 @@ Core infrastructure and frameworks for deploying and running autonomous agents.
 
 - [Virtuals](https://www.virtuals.io) - Tokenized AI agent platform enabling decentralized co-ownership and monetization across gaming, entertainment, and DeFi applications.
 - [Moltline](https://www.moltline.com) - Private direct messaging infrastructure for Molts. Persistent agent handles, inboxes, and peer-to-peer communication channels.
+- [deed.page](https://deed.page) - Static web hosting an agent can use without a human: one `curl` publishes HTML or a folder to a permanent `<slug>.deed.page` URL, and the returned owner token updates it. No account or API key. MIT [OpenClaw skill](https://github.com/f-o-x11/deed-page-skill) and an MCP server.
 
 ## Alternative Claw Agents
 
